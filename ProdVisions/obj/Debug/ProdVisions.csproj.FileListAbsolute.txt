@@ -1,0 +1,6 @@
+C:\Users\jbanks\Documents\GitHub\ProdVisions\ProdVisions\ProdVisions\bin\Debug\ProdVisions.exe.config
+C:\Users\jbanks\Documents\GitHub\ProdVisions\ProdVisions\ProdVisions\bin\Debug\ProdVisions.exe
+C:\Users\jbanks\Documents\GitHub\ProdVisions\ProdVisions\ProdVisions\bin\Debug\ProdVisions.pdb
+C:\Users\jbanks\Documents\GitHub\ProdVisions\ProdVisions\ProdVisions\obj\Debug\ProdVisions.csprojResolveAssemblyReference.cache
+C:\Users\jbanks\Documents\GitHub\ProdVisions\ProdVisions\ProdVisions\obj\Debug\ProdVisions.exe
+C:\Users\jbanks\Documents\GitHub\ProdVisions\ProdVisions\ProdVisions\obj\Debug\ProdVisions.pdb
